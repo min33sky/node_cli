@@ -3,6 +3,7 @@
 ## Usage
 
 ```
+npm i -g
 cli
 wlt
 ```
